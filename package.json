@@ -6,7 +6,7 @@
   "main": "dist/vuedraggable.umd.min.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/SortableJS/Vue.Draggable.git"
+    "url": "https://github.com/murray484/Vue.Draggable.git"
   },
   "private": false,
   "scripts": {
@@ -30,7 +30,7 @@
     "nested"
   ],
   "dependencies": {
-    "sortablejs": "git://github.com/SortableJS/Sortable.git"
+    "sortablejs": "git://github.com/SortableJS/Sortable.git#e979370"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.4.0",
